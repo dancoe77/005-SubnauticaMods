@@ -1,0 +1,11 @@
+﻿{
+  "Id": "PassiveReapers",
+  "DisplayName": "Passive Reapers",
+  "Author": "Modding Advent Calendar 2019",
+  "Version": "1.0",
+  "Requires": [],
+  "Enable": true,
+  "AssemblyName": "PassiveReapers.dll",
+  "EntryMethod": "MAC.PassiveReapers.MainPatcher.Patch",
+  "Config": {}
+}
